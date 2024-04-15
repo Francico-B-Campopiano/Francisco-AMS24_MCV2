@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aulas_jefferson.props" />
+</Project>
